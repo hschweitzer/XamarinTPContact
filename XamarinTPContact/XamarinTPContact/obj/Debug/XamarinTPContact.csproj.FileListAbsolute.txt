@@ -1,0 +1,17 @@
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\XamarinTPContact.dll
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\XamarinTPContact.pdb
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\obj\Debug\XamarinTPContact.csproj.CoreCompileInputs.cache
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\obj\Debug\XamarinTPContact.MainPage.xaml.g.cs
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\obj\Debug\XamarinTPContact.App.xaml.g.cs
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\obj\Debug\XamarinTPContact.dll
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\obj\Debug\XamarinTPContact.pdb
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\obj\Debug\XamarinTPContact.csprojResolveAssemblyReference.cache
+C:\Users\hschweitzer\source\repos\XamarinTPContact\XamarinTPContact\XamarinTPContact\obj\Debug\XamarinTPContact.Aide.xaml.g.cs
