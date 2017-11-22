@@ -17,16 +17,17 @@ namespace XamarinTPContact
             lesContacts = new ObservableCollection<Contact>();
             ContactView.ItemsSource = lesContacts;
             ContactView.ItemSelected += ContactView_ItemSelected;
+            loadContacts();
         }
 
-        void ajouterBTClicked(object sender, EventArgs e)
+        void ajoutBTClicked(object sender, EventArgs e)
         {
             Contact c = new Contact(nomContact.Text, numeroContact.Text);
             lesContacts.Add(c);
-            confirmLabel.Text = String.Format("{0} avec le numéro {1}", nomContact.Text, numeroContact.Text);
+            confirmLabel.Text = String.Format("{0} avec le numéro {1}",
+            nomContact.Text, numeroContact.Text);
             this.saveContacts();
         }
-
         public void saveContacts()
         {
             string toSaveText = "";

@@ -19,7 +19,7 @@
         <Entry x:Name="nomContact" Text="Aucun" Keyboard="Text" />
         <Label Text="Numéro du contact :" />
         <Entry x:Name="numeroContact" Text="Aucun" Keyboard="Numeric" />
-        <Button x:Name="boutonValider" Text="Ajouter" Clicked="ajouterBTClicked"/>
+        <Button x:Name="boutonValider" Text="Ajouter" Clicked="ajoutBTClicked"/>
         <Label x:Name="confirmLabel" Text="" HorizontalTextAlignment="Center" />
         <Button x:Name="boutonAide" Text="Aide" Clicked="OnButtonAideClicked"/>
         <ListView x:Name="ContactView">
